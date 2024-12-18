@@ -48,16 +48,7 @@ Lemon Web Application is a dynamic web application built using Django as part of
 1. Create a new account or log in if you already have one.
 2. As an administrator, you can manage products, view sales data, and track inventory levels.
 3. As a regular user, you can view products, add them to the cart, and place orders.
-4. Use the search functionality to find specific products by name or description.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+4. Use the search functionality to find specific products by name or description
 
 ---
 
-Thank you for checking out Lemon Web Application. We hope you find it useful and enjoy using it! If you have any questions or need assistance, please feel free to contact us. Happy coding! 🍋
